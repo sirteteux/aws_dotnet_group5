@@ -21,7 +21,5 @@ namespace AspNetCoreWebService
             WebHost.CreateDefaultBuilder(args)
                 .UseStartup<Startup>();
     }
-    
-    test [insert failed code here]
 }
 
